@@ -1,0 +1,47 @@
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body{
+    background-size: cover; 
+    background-position: center;
+}
+
+canvas{
+    box-shadow:5px 5px 12px grey;
+    border-radius:10px;
+}
+
+.one{
+ height: 100px;
+ width: 200px;
+}
+
+.two{
+    height: 100px;
+    width: 200px;
+   }
+
+   .three{
+    height: 100px;
+    width: 200px;
+   }
+
+   .four{
+    height: 100px;
+    width: 200px;
+   }
+
+   .five{
+    height: 100px;
+    width: 200px;
+   }
